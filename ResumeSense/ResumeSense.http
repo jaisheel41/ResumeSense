@@ -1,0 +1,6 @@
+@ResumeSense_HostAddress = http://localhost:5260
+
+GET {{ResumeSense_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
