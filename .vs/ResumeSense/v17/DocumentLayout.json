@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jaish\\OneDrive\\Desktop\\ResumeSense\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F735651-3705-4259-B9B4-451B6D7AA887}|ResumeSense\\ResumeSense.csproj|c:\\users\\jaish\\onedrive\\desktop\\resumesense\\resumesense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F735651-3705-4259-B9B4-451B6D7AA887}|ResumeSense\\ResumeSense.csproj|solutionrelative:resumesense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaish\\OneDrive\\Desktop\\ResumeSense\\ResumeSense\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeSense\\Program.cs",
+              "ToolTip": "C:\\Users\\jaish\\OneDrive\\Desktop\\ResumeSense\\ResumeSense\\Program.cs",
+              "RelativeToolTip": "ResumeSense\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:08:03.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
